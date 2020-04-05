@@ -1,0 +1,70 @@
+{% extends "layout.html" %}
+{% block content %}
+<div>
+    <h2 class="content-section">Boston house price prediction data description</h2>
+    <div>
+        <table class="table table-dark">
+            <thead>
+            <tr>
+                <th>Name</th>
+                <th>Description</th>
+            </tr>
+            </thead>
+            <tbody>
+            <tr>
+                <td>CRIM</td>
+                <td>per capita crime rate by town</td>
+            </tr>
+            <tr>
+                <td>ZN</td>
+                <td>proportion of residential land zoned for lots over 25,000 sq.ft.</td>
+            </tr>
+            <tr>
+                <td>INDUS</td>
+                <td>proportion of non-retail business acres per town</td>
+            </tr>
+            <tr>
+                <td>CHAS</td>
+                <td>Charles River dummy variable (= 1 if tract bounds river; 0 otherwise)</td>
+            </tr>
+            <tr>
+                <td>NOX</td>
+                <td>nitric oxides concentration (parts per 10 million)</td>
+            </tr>
+            <tr>
+                <td>RM</td>
+                <td>average number of rooms per dwelling</td>
+            </tr>
+            <tr>
+                <td>AGE</td>
+                <td>proportion of owner-occupied units built prior to 1940</td>
+            </tr>
+            <tr>
+                <td>DIS</td>
+                <td>weighted distances to five Boston employment centres</td>
+            </tr>
+            <tr>
+                <td>RAD</td>
+                <td>index of accessibility to radial highways</td>
+            </tr>
+            <tr>
+                <td>TAX</td>
+                <td>full-value property-tax rate per 10,000usd</td>
+            </tr>
+            <tr>
+                <td>PTRATIO</td>
+                <td>pupil-teacher ratio by town.</td>
+            </tr>
+            <tr>
+                <td>B</td>
+                <td>1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town</td>
+            </tr>
+            <tr>
+                <td>LSTAT</td>
+                <td>% lower status of the population</td>
+            </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+{% endblock content %}
