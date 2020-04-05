@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6a579a31-7726-47ee-a2a2-b7e7ca77addc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X8wBRiBscw1zZTtq11W2wMTBOa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/FlaskBlog/templates" />
+      <recent name="$PROJECT_DIR$/FlaskBlog" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.FlaskApp">
+    <configuration name="FlaskApp" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="FlaskApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="flaskblog" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskApp" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FlaskBlog" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FlaskBlog/flaskblog.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.FlaskApp" />
+      <item itemvalue="Python.flaskblog" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.flaskblog" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6a579a31-7726-47ee-a2a2-b7e7ca77addc" name="Default Changelist" comment="" />
+      <created>1580440893096</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580440893096</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580487529873">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1580482492299" />
+    <state x="304" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580487529873" />
+    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl" timestamp="1580487509611">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="311" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1580487509611" />
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom" timestamp="1580441151787">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-104.1920.1080@0.0.1440.900" timestamp="1580441151787" />
+    <state width="1419" height="245" key="GridCell.Tab.0.center" timestamp="1580441151786">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.-104.1920.1080@0.0.1440.900" timestamp="1580441151786" />
+    <state width="1419" height="245" key="GridCell.Tab.0.left" timestamp="1580441151785">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.-104.1920.1080@0.0.1440.900" timestamp="1580441151785" />
+    <state width="1419" height="245" key="GridCell.Tab.0.right" timestamp="1580441151787">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1419" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.-104.1920.1080@0.0.1440.900" timestamp="1580441151787" />
+    <state x="362" y="131" key="SettingsEditor" timestamp="1580487879905">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900/1440.-104.1920.1080@0.0.1440.900" timestamp="1580458626844" />
+    <state x="362" y="131" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1580487879905" />
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1580624424262">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="649" y="380" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1580624424262" />
+    <state x="386" y="85" width="667" height="729" key="find.popup" timestamp="1580482639158">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="386" y="85" width="667" height="729" key="find.popup/0.0.1440.900/1440.-104.1920.1080@0.0.1440.900" timestamp="1580442292574" />
+    <state x="386" y="85" width="667" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1580482639158" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1580480694722">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1440.900@0.0.1440.900" timestamp="1580480694722" />
+  </component>
+</project>
